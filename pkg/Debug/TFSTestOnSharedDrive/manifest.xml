@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="3d911c35-ad2d-4473-8eae-a10c6a204acf" SharePointProductVersion="19.0">
+  <Assemblies>
+    <Assembly Location="TFSTestOnSharedDrive.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="TFSTestOnSharedDrive, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9fa242406365b0a6" Namespace="TFSTestOnSharedDrive.VisualWebPart1" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\TFSTestOnSharedDrive\VisualWebPart1\VisualWebPart1UserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="TFSTestOnSharedDrive_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

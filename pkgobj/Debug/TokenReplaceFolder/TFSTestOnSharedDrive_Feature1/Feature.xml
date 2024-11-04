@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="8d021a8c-5ff3-4c51-8bc5-14caca39a5d0" Scope="Site" Title="TFSTestOnSharedDrive Feature1">
+  <ElementManifests>
+    <ElementManifest Location="VisualWebPart1\Elements.xml" />
+    <ElementFile Location="VisualWebPart1\VisualWebPart1.webpart" />
+  </ElementManifests>
+</Feature>

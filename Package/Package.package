@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="3d911c35-ad2d-4473-8eae-a10c6a204acf" solutionId="3d911c35-ad2d-4473-8eae-a10c6a204acf" resetWebServer="false" sharePointProductVersion="19.0" name="TFSTestOnSharedDrive" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="3b5f5954-70fe-4d15-8684-1a89fe16cfb5" />
+  </features>
+</package>
